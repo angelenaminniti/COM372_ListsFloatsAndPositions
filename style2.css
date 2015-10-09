@@ -11,3 +11,45 @@
   padding: 1em;
   margin: 2em;
 }
+#list1 {
+list-style: circle insdie;
+list-style: circle outside;
+list-style: square;
+list-style: none;
+
+}
+
+#boxmodeldemo {
+margin: 50px;
+border: 2px red block solid;
+padding: 10px;
+width: 60%;
+}
+
+
+
+#div2 {
+absolute:
+bottom property: 0px;
+}
+
+#div1 {
+<div id= "right:">
+
+
+
+}
+
+#testDiv1 {
+  relative:
+  <top property: 0px;>
+  <bottom property: 0px;>
+
+}
+
+
+
+
+
+
+}
